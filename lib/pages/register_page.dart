@@ -93,7 +93,7 @@ class RegisterPage extends StatelessWidget {
                 onPressed: () {
                   // register logic
                 },
-                child: Text('Resgister'),
+                child: Text('Register'),
                 style: ElevatedButton.styleFrom(
                   padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                   shape: RoundedRectangleBorder(

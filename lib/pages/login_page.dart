@@ -113,7 +113,7 @@ class LoginPage extends StatelessWidget {
                     MaterialPageRoute(builder: (context) => RegisterPage()),
                   );
                 },
-                child: Text('Resgister'),
+                child: Text('Register'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.black,
                   foregroundColor: Colors.lightGreen,
